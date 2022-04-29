@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fangyong Kuma
-- 👀 I’m interested in coding and development
+- 👀 I’m interested in DEVOPS
 - 🌱 I’m an associate AWS Solutions Architect
 - 💞️ I’m looking to collaborate and sharpen my skills on DEVOPS
 - 📫 DM me
